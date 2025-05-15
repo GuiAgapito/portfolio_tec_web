@@ -1,0 +1,59 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f2f2f2;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+  margin: 0;
+  padding: 10px;
+}
+
+#cabecalho {
+  background-color: #003366;
+  color: white;
+  text-align: center;
+  padding: 10px;
+  
+}
+
+#menu {
+  background-color: #336699;
+  text-align: center;
+  padding: 10px;  
+}
+
+#menu a {
+  margin: 0 15px;
+  color: white;
+  text-decoration: none;
+}
+
+.secao {
+  background-color: #ffffff;
+  padding: 20px;
+  margin: 20px;    
+}
+
+.secao img {
+  height: 100px;
+  margin: 0 10px;
+}
+
+.projetos a {
+  text-decoration: none;
+  color: #003366;
+  font-weight: bold;
+}
+
+#contato a {
+  text-decoration: none;
+  color: #003366;
+  font-weight: bold;
+}
+
+#rodape {
+  background-color: #003366;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
